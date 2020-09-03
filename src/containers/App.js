@@ -1,13 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Header from './Header';
+import About from './About';
+import GoogleMap from './GoogleMap';
+import Footer from './Footer';
 
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+class App extends Component {
+	// constructor() {
+	// 	
+	// }
+
+	// componentDidMount () {
+
+	// }
+
+	render() {
+		return (
+			<div>
+				<Header />
+				<About />
+				<GoogleMap />
+				<Footer />
+    		</div>
+		);
+	}
 }
 
 export default App;

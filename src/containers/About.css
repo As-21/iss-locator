@@ -1,0 +1,9 @@
+.aboutcontianer {
+	display: grid;
+	grid-gap: 20px;
+	padding: 5em 2em 2em 2em;
+	background: #b3b3b3;
+	justify-items: center;
+	align-items: center;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
