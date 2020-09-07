@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/iss-locator/static/css/main.950e3d8d.chunk.css",
+    "main.js": "/iss-locator/static/js/main.438bc768.chunk.js",
+    "main.js.map": "/iss-locator/static/js/main.438bc768.chunk.js.map",
+    "runtime-main.js": "/iss-locator/static/js/runtime-main.e096ce8f.js",
+    "runtime-main.js.map": "/iss-locator/static/js/runtime-main.e096ce8f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/iss-locator/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9b54b69b.chunk.js": "/iss-locator/static/js/2.9b54b69b.chunk.js",
+    "static/js/2.9b54b69b.chunk.js.map": "/iss-locator/static/js/2.9b54b69b.chunk.js.map",
+    "index.html": "/iss-locator/index.html",
+    "precache-manifest.4703fd9b3fe14fa4108967cd2be1b112.js": "/iss-locator/precache-manifest.4703fd9b3fe14fa4108967cd2be1b112.js",
+    "service-worker.js": "/iss-locator/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/iss-locator/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.950e3d8d.chunk.css.map": "/iss-locator/static/css/main.950e3d8d.chunk.css.map",
+    "static/js/2.9b54b69b.chunk.js.LICENSE.txt": "/iss-locator/static/js/2.9b54b69b.chunk.js.LICENSE.txt",
+    "static/media/ISS_about_picture.jpg": "/iss-locator/static/media/ISS_about_picture.7501ae84.jpg",
+    "static/media/Paragraph.module.css": "/iss-locator/static/media/TNG_Credits.25265044.ttf",
+    "static/media/Map.css": "/iss-locator/static/media/TNG_Title.bde71e94.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e096ce8f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.9b54b69b.chunk.js",
+    "static/css/main.950e3d8d.chunk.css",
+    "static/js/main.438bc768.chunk.js"
+  ]
+}
