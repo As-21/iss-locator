@@ -1,0 +1,6 @@
+.googleMapContainer {
+	display: grid;
+	background: lightblue;
+	justify-content: stretch;
+	width: 100%;
+}

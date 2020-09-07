@@ -1,18 +1,10 @@
 import React, { Component } from 'react';
-import Header from './Header';
+import Header from '../components/Header';
 import About from './About';
 import GoogleMap from './GoogleMap';
-import Footer from './Footer';
+import Footer from '../components/Footer';
 
 class App extends Component {
-	// constructor() {
-	// 	
-	// }
-
-	// componentDidMount () {
-
-	// }
-
 	render() {
 		return (
 			<div>

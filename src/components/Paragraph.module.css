@@ -1,0 +1,8 @@
+@font-face {
+  font-family: starTrek;
+  src: url(../content/TNG_Credits.ttf);
+}
+
+.paragraph {
+	font-family: starTrek;
+}

@@ -1,11 +1,11 @@
 import React from 'react';
 import Image from '../components/Image'
 import Paragraph from '../components/Paragraph'
-import './About.css';
+import styles from './About.module.css';
 
 const About = () => {
 	return (
-		<div className='aboutcontianer'>
+		<div className={styles.aboutcontianer}>
 			<Image />
 			<Paragraph />
 		</div>
