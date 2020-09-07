@@ -10,7 +10,7 @@ const Map = ({ latitude, longitude, zoomLevel }) => {
 
 	    <div className="google-map">
 	      <GoogleMapReact
-	        bootstrapURLKeys={{ key: 'AIzaSyCSqYNBV3DUKT8w0c3BSFrt-3-ispdeC4I' }}
+	        bootstrapURLKeys={{ key: 'Your key here' }}
 	        defaultCenter={{
 				  address: 'International Space Station Location.',
 				  lat: 37.42216,
