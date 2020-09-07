@@ -1,3 +1,16 @@
+## For now location not updating due to Mixed Content HTTPS and HTTP
+Hence GitHub pages working with HTTPS protocol and the ISS-Location-Now API working on HTTP, the location update feature isn’t working.
+
+You can solve this with two workarounds:
+1.	Enabling mixed content on your web browser you can use this site https://docs.adobe.com/content/help/en/target/using/experiences/vec/troubleshoot-composer/mixed-content.html
+2.	Clone this repo to your local pc, run npm install and then run npm start to view this on your local computer.
+Sorry for the inconvenience, I am looking for alternative API with HTTPS to solve this.
+
+
+------------------
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
